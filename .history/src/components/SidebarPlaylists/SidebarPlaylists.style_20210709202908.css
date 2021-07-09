@@ -1,0 +1,14 @@
+.sidebar_playlists {
+    position: relative;
+    display: block;
+    margin: 24px;
+    margin-top: 80px;
+}
+
+.heading {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+}

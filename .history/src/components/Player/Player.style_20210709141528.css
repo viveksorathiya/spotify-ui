@@ -1,0 +1,20 @@
+.player {
+
+}
+
+.player_main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player_button {
+    margin: 16
+}
+
+#player_play {
+    height: 36px;
+    width: 36px;
+}
+
+#player

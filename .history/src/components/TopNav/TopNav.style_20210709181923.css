@@ -1,0 +1,14 @@
+.topnav {
+    display: block;
+    position: absolute;
+    left: 0;
+}
+
+.topnav ul {
+    position: absolute;
+    left: -40px;
+}
+.topnav li {
+    list-style: none;
+    list-style-type: none;
+}

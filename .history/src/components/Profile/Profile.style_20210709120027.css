@@ -1,0 +1,14 @@
+.profile {
+    display: flex;
+    max-height: 40px;
+    width: 203px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 27px;
+    padding: 8px;
+}
+
+.profile__name {
+    font-size: 14px;
+    font-weight: 500;
+    lin
+}

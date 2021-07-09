@@ -1,0 +1,15 @@
+.topnav_item {
+    height: 40px;
+    display: flex;
+    margin-left: 24px;
+}
+
+.topnav_item__icon {
+    margin-right: 16px;
+}
+
+.topnav_item__title {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+}

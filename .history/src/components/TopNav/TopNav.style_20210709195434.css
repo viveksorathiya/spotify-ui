@@ -1,0 +1,32 @@
+.topnav {
+	display: block;
+	position: absolute;
+	left: 0;
+}
+
+.topnav ul {
+	position: absolute;
+	left: -40px;
+}
+.topnav li {
+	list-style: none;
+	list-style-type: none;
+}
+.topnav a {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    padding: 24px;
+}
+.topnav a.active {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.active::before {
+    content: '|';
+	color: #66d36e;
+	background-color: #66d36e;
+}
+
+

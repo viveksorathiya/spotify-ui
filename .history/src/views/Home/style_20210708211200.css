@@ -1,0 +1,15 @@
+@import url('../../assets/fonts/CircularStd.ttf');
+
+@font-face {
+font-family: "GoldmanBold";
+src: local("GoldmanBold"),
+ url("./fonts/Goldman/Goldman-Bold.ttf") format("truetype");
+font-weight: bold;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    font-family: 'Circular Std', sans-serif;
+}

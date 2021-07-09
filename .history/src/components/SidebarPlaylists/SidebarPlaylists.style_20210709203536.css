@@ -1,0 +1,17 @@
+.sidebar_playlists {
+    position: absolute;
+  top:180px;
+  left: 0;
+    display: block;
+    margin: 24px;
+    margin-top: 80px;
+}
+
+.sidebar_playlists_heading {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: rgba;
+}

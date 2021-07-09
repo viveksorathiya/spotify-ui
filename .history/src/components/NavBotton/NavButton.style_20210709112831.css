@@ -1,0 +1,11 @@
+.nav_button {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: #030303;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    color: ;
+}

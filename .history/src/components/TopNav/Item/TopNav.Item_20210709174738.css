@@ -1,0 +1,10 @@
+.topnav_item {
+    height: 40px;
+    display: flex;
+    margin-left: 24px;
+}
+
+.topnav_item__icon {
+    margin-right: 16px;
+}
+

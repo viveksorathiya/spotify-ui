@@ -1,0 +1,20 @@
+.sidebar_playlists {
+	position: absolute;
+	top: 280px;
+	left: 0;
+	display: block;
+	margin: 24px;
+}
+
+.sidebar_playlists_heading {
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15px;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+.playlist {
+    mar
+}

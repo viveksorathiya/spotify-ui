@@ -1,0 +1,25 @@
+.create_playlist_button {
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.create_icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 32px;
+    width: 32px;
+    background-color: #A4A4A4;
+    color: #030303;
+    font
+}
+
+.create_button_text {
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.6);
+}

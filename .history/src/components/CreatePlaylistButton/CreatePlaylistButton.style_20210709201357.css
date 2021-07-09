@@ -1,0 +1,10 @@
+.create_playlist_button {
+    display: flex;
+    align-items: center;
+}
+
+.create_icon {
+    height: 32px;
+    width: 32px;
+    
+}

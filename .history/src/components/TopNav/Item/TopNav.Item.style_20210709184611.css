@@ -1,0 +1,20 @@
+
+.topnav_item {
+	height: 40px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	padding-left: 24px;
+	border-left: solid 6px #030303;
+}
+
+.topnav_item__icon {
+	margin-right: 16px;
+}
+
+.topnav_item__title {
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: 500;
+	color: rgba(255, 255, 255, 0.6);
+}

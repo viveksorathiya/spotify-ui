@@ -1,0 +1,26 @@
+.player {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.player_main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player_button {
+    margin: 16
+}
+
+#player_play {
+    height: 36px;
+    width: 36px;
+}
+
+#player_skips {
+    height: 12.35px;
+    width: 10.7px;
+}

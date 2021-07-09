@@ -1,0 +1,25 @@
+.topnav_item:hover {
+	color: #ffffff;
+	border-left: solid 6px #66d36e;
+}
+.topnav_item:active {
+	color: #ffffff;
+	border-left: solid 6px #66d36e;
+}
+.topnav_item {
+	height: 40px;
+	display: flex;
+	justify-content: flex-start;
+	margin-left: 24px;
+}
+
+.topnav_item__icon {
+	margin-right: 16px;
+}
+
+.topnav_item__title {
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: 500;
+	color: rgba(255, 255, 255, 0.6);
+}

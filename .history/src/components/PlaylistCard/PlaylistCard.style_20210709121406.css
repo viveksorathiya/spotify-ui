@@ -1,0 +1,6 @@
+.playlist_card {
+    height: 273px;
+    width: 203px;
+    border-radius: 10px;
+    background: rgba(red, green, blue, alpha);
+}

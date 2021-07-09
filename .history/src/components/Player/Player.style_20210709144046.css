@@ -1,0 +1,46 @@
+.player {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.player_main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.player_time {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.player_time_text {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.player_time_display {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    height: 6px;
+    width: 496px;
+}
+
+.player_button {
+	margin-left: 16px;
+	margin-right: 16px;
+	margin-bottom: 14px;
+}
+
+#player_play {
+	height: 36px;
+	width: 36px;
+}
+
+#player_skips {
+	height: 12.35px;
+	width: 10.7px;
+}

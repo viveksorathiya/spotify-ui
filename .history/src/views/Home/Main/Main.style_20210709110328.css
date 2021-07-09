@@ -1,0 +1,5 @@
+.main {
+    width: calc(100% - 224px);
+    overflow-y: scroll;
+    overflow-x: ;
+}

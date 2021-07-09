@@ -1,0 +1,39 @@
+.rightsong {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rightsong_img {
+    background-color: rgba(255, 255, 255, 0.1);
+    height: 48px;
+    width: 48px;
+}
+
+.rightsong_content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.rightsong_title {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.rightsong_category {
+    font-size: 12px;
+    line-height: 16px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.rightsong_button {
+    height: 14px;
+    margin-left: 15px;
+}
+
+#cardicon

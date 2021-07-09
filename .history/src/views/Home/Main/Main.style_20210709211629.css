@@ -1,0 +1,8 @@
+.main {
+    width: calc(100% - 224px);
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 32px;
+    margin-bottom: 96px;
+    scrollbar-width: ;
+}

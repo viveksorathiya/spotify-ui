@@ -1,0 +1,8 @@
+.row {
+margin-bottom: 96px;
+}
+
+.row__cards {
+    display: flex;
+
+}
