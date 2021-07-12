@@ -43,10 +43,7 @@ const PlaylistCard = ({ playlist }) => {
 			</div>
 			<div className="overlay">
 				<div className="overlay_playbtn">
-					<img
-						className="overlay_play_inner"
-						src={RESOURCES.PLAY_OVERLAY}
-						alt=""
+					<img className="overlay_play_inner" src={RESOURCES.PLAY_OVERLAY}
 					/>
 				</div>
 			</div>

@@ -14,7 +14,7 @@ const Row = (props) => {
 			{subHeading && <SubHeading title={subHeading} />}
 			<div className="row__cards">
 				{playlists.map((playlist, index) => (
-					<PlaylistCard key={index} playlist={playlist} />
+					<PlaylistCard playlist={playlist} />
 				))}
 			</div>
 		</div>

@@ -21,7 +21,6 @@ const Player = () => {
 					<img
 						className="player_button"
 						id="player_skips"
-						alt=""
 						src={RESOURCES.SKIP_FORWARD}
 					/>
 				</div>

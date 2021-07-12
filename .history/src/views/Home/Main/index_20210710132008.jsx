@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, {use} from "react";
 import Topbar from "../../../components/Topbar";
 import Row from "../Row";
 
@@ -8,7 +8,7 @@ import "./Main.style.css";
 
 const Main = () => {
 
-	const [playlists1, setPlaylists1] = useState([])
+	const [playlists1, setPlaylists1] = React.useState([])
 	const [ playlists2, setPlaylists2 ] = React.useState([])
 	
 	React.useEffect(() => {
